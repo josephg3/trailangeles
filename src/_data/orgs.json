@@ -215,6 +215,22 @@
       ],
       "contactEmail": "steve@corbamtb.org",
       "description": "**The Concerned Off-Road Bicyclists Association (CORBA)** *is an all-volunteer non-profit organization serving the mountain bicycling community of Los Angeles and its surrounding areas including southern Ventura County. We are dedicated to preserving open space, maintaining public access to public lands, and creating more trail opportunities for all to enjoy. We are a chapter of the International Mountain Bicycling Association ([IMBA](http://www.imba.com/)).***Our Mission** *We are passionate about mountain biking, public trails and preserving our public open space for future generations. CORBA is committed to ensuring equal access for all trail users, and to contributing to everyone's enjoyment of the trails. CORBA organizes and coordinates activities that support mountain biking recreation and that promote the conservation, administration and the maintenance of the public lands.*"
+    },
+    {
+      "facebook": "https://www.facebook.com/RiversMountainsConservancy",
+      "name": "San Gabriel and Lower Los Angeles Rivers and Mountains Conservancy ",
+      "slug": "RMC",
+      "contactName": "Joseph Gonzalez",
+      "places": [
+        "2b4b2710-0618-11ec-9b4b-7fc400e344b5"
+      ],
+      "photo": "/static/img/rmc-logo-final-bw.jpg",
+      "instagram": "https://www.instagram.com/riversmountainsconservancy/",
+      "website": "http://rmc.ca.gov/",
+      "id": "152b8b00-48ad-11ec-8f49-a97a4ccd859f",
+      "filters": [],
+      "contactEmail": "JGonzalez@rmc.ca.gov",
+      "description": "The San Gabriel and Lower Los Angeles Rivers and Mountains Conservancy (RMC) was created by the California legislature in 1999. We’re one of ten conservancies within the California Natural Resources Agency[](http://resources.ca.gov/).  \n\nOur mission is to preserve open space and habitat in order to provide for low-impact recreation and educational uses, wildlife habitat restoration and protection, and watershed improvements within our jurisdictions, which we help to fund with our grant programs. This work supports the public’s enjoyment and enhancement of recreational and educational experiences on public lands in a manner consistent with the protection of lands and resources in those watersheds.  Visit our website for more information!"
     }
   ]
 }
